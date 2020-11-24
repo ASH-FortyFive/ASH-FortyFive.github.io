@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+
+permalink: /:categories/:year/:month/:title/
+title: ASH's Site
+description: A collection of projects by Alexandre Symeonidis-Herzig (and the occasional picture of his cat)
